@@ -109,12 +109,7 @@
         </div>
         <div class="login-container">
             <form class="login-form" action="login.php" method="POST">
-                <?php
-                session_start();
-                if(isset($_GET['error'])) {
-                    echo '<div class="error-message">' . htmlspecialchars($_GET['error']) . '</div>';
-                }
-                ?>
+                
                 <div class="form-group">
                     <input type="text" name="username" placeholder="Username" required>
                 </div>

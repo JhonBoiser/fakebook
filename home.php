@@ -316,7 +316,7 @@ $email = $_SESSION['email'];
             <!-- Create Post -->
             <div class="create-post">
                 <div class="post-input">
-                    <img src="/api/placeholder/40/40" alt="Profile Picture">
+                    <img src="https://t3.ftcdn.net/jpg/05/66/26/98/360_F_566269813_8VisUzV5qqdN7nQ7De4FcVEVxnRuKh2E.jpg" alt="Profile Picture">
                     <input type="text" placeholder="What's on your mind?">
                 </div>
                 <div class="post-actions">
