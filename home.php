@@ -338,14 +338,14 @@ $email = $_SESSION['email'];
             <!-- Sample Posts -->
             <div class="post">
                 <div class="post-header">
-                    <img src="/api/placeholder/40/40" alt="User">
+                    <img src="https://t3.ftcdn.net/jpg/05/66/26/98/360_F_566269813_8VisUzV5qqdN7nQ7De4FcVEVxnRuKh2E.jpg" alt="User">
                     <div>
-                        <h3>Sample User</h3>
+                        <h3>JP master</h3>
                         <span>2 hours ago</span>
                     </div>
                 </div>
                 <div class="post-content">
-                    <p>This is a sample post content. Welcome to Facebook clone!</p>
+                    <p>Ako nga pala si JP , Welcome sa aking Fakebook</p>
                 </div>
                 <div class="post-footer">
                     <div class="post-actions">
